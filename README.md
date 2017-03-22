@@ -1,2 +1,2 @@
 # hello-world
-testbed fpr experimenting with Git, Github, etc.
+testbed for experimenting with Git, Github, etc.
