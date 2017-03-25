@@ -1,2 +1,2 @@
 # hello-world
-testbed for experimenting with Git, Github, etc.
+my testbed for experimenting with Git, Github, etc.
